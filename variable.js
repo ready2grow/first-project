@@ -9,9 +9,7 @@ let name = 'ellie';
 console.log(name);
 name = 'hello';
 console.log(name);
-
-
-
+추가추가
 const char = 'c';
 const brendan = 'brendan';
 const greeting = 'hello ' + brendan;
