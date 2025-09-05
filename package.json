@@ -1,0 +1,17 @@
+{
+  "name": "first-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "variable.js",
+  "scripts": {
+    "test": "node translate_pdf.js sample.pdf"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "pdf-parse": "^1.1.1",
+    "@vitalets/google-translate-api": "^8.0.0"
+  }
+}
